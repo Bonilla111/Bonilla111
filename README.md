@@ -3,7 +3,7 @@ Aprendiz SENA | Backend Developer | Calistenia Lover
 <img src="https://i.imgur.com/waxVImv.png" width="100%"/>
 🚀 Sobre mí
 
-Soy un apasionado del desarrollo backend y del mundo de las bases de datos. Actualmente estudio Análisis y Desarrollo de Software en el SENA, mientras entreno calistenia 
+Aprendiz  desarrollador backend y del mundo de las bases de datos. Actualmente estudio Análisis y Desarrollo de Software en el SENA, mientras entreno calistenia 
 
 Me encanta crear proyectos limpios, eficientes y bien estructurados. Programar, para mí, es como entrenar: disciplina, constancia y progreso continuo.
 
